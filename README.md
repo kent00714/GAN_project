@@ -14,7 +14,7 @@ Some GAN model scripts by Keras+Tensorflow
 # AVAE
 
 <p float="left">
-  <img src="https://github.com/kent00714/GAN_project/blob/master/AVAE/test_feature.png width="450" title="Feature_map" />
+  <img src="https://github.com/kent00714/GAN_project/blob/master/AVAE/test_feature.png" width="450" title="Feature_map" />
   <img src="https://github.com/kent00714/GAN_project/blob/master/AVAE/reconstruction.png" width="400" title="Reconstruction" /> 
 </p>
                                                                                                                             
@@ -22,7 +22,7 @@ Some GAN model scripts by Keras+Tensorflow
 # VAE
 
 <p float="left">
-  <img src="https://github.com/kent00714/GAN_project/blob/master/VAE/test_feature.png width="450" title="Feature_map" />
+  <img src="https://github.com/kent00714/GAN_project/blob/master/VAE/test_feature.png" width="450" title="Feature_map" />
   <img src="https://github.com/kent00714/GAN_project/blob/master/VAE/reconstruction.png" width="400" title="Reconstruction" /> 
 </p>
       
