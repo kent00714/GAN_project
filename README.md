@@ -6,4 +6,4 @@ Some GAN model scripts by Keras+Tensorflow
 
 # AAE
 
-![alt text](https://github.com/kent00714/GAN_project/blob/master/AAE/test_feature.png) ![alt text](https://github.com/kent00714/GAN_project/blob/master/AAE/reconstruction.png)
+![image](https://github.com/kent00714/GAN_project/blob/master/AAE/test_feature.png) ![image](https://github.com/kent00714/GAN_project/blob/master/AAE/reconstruction.png)
