@@ -7,10 +7,15 @@ Some GAN model scripts by Keras+Tensorflow
 # Requiments
 
 Cuda       == 9.0
+
 cudnn      == 6.1
+
 tensorflow == 1.12.0
+
 numpy      == 1.15.4
+
 matplotlib == 3.0.1
+
 cv2        == 3.4.3
 
 # AAE
